@@ -65,8 +65,8 @@ http://localhost:8000/api/v1/users/register
 ***Body***
 ```json
 {
-    "email": "niteshk24mj@gmail.com",
-    "password": "12345678",
+    "email": "@gmail.com",
+    "password": "",
     "username": "",
     "avatar": "image_file",
     "background image": "image_file",
@@ -80,8 +80,8 @@ http://localhost:8000/api/v1/users/login
 **Body**
 ```json
 {
-    "email": "niteshk24mj@gmail.com",
-    "password": "12345678"
+    "email": "",
+    "password": ""
 }
 ```
   ***Post Logout***
