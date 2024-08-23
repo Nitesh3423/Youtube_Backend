@@ -1,6 +1,6 @@
 # Video Streaming Backend Project
 
-This project is a backend implementation of a video streaming website similar to YouTube. It is built using Node.js, MongoDB, Mongoose, and Express. The project includes user registration, login, logout, and other functionalities.
+This project is a backend implementation of a video streaming website similar to YouTube. It is built using Node.js, MongoDB, Mongoose, and Express. The project includes user registration, login, logout, and other functionalities. (currently only backend part is completed, building frontend)
 
 ## Table of Contents
 
